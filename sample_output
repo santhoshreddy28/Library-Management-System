@@ -1,0 +1,17 @@
+===== LIBRARY MANAGEMENT SYSTEM =====
+
+1. View Books
+2. Issue Book
+3. Return Book
+4. Exit
+
+Enter Choice: 1
+
+Book ID: 101, Title: Java Programming, Status: Available
+Book ID: 102, Title: Data Structures, Status: Available
+Book ID: 103, Title: Operating Systems, Status: Available
+
+Enter Choice: 2
+Enter Book ID: 101
+
+Book Issued Successfully.
